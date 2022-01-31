@@ -1,0 +1,54 @@
+body{
+    background: #000;
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+    width: 500px;
+    padding: 50px;
+    text-align: center;
+    font-size: 1em;
+    border: 2px solid #fff;
+    border-radius: 10px;
+
+}
+.head{
+    text-align: center;
+}
+img{
+    width: 500px;
+    border-radius: 10px;
+}
+.mail{
+    background: #fff;
+    width: 100px;
+    border-radius: 5px;
+    color: #000;
+    border: none;
+    height: 29px;
+    margin: 5px;
+}
+.ln{
+    background: blue;
+    width: 130px;
+    border-radius: 5px;
+    color: #fff;
+    border: none;
+    height: 29px;
+    margin: 5px;
+}
+a:link{
+    text-decoration: none;
+    padding: 14px 25px;
+    text-align: center;
+    display: inline-block;
+}
+.about{
+    float: left;
+    text-align: justify;
+}
+.interest{
+    float: left;
+    text-align: justify;
+}
+.foot{
+    text-align: center;
+}
